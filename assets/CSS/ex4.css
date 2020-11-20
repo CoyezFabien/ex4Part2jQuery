@@ -1,0 +1,15 @@
+#green:hover
+{
+background-color: green;
+color: #fff;
+}
+#red:hover
+{
+background-color:red;
+color: #fff;
+}
+#blue:hover
+{
+background-color: blue;
+color: #fff;
+}
